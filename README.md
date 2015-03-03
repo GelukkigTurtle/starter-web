@@ -2,6 +2,7 @@
 
 This a simple website project for
 showign how to use Git and Github Together
+Adding a line for rebasing
 ##Introduction
 
 This is a example is to show differenceparts
