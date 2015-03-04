@@ -25,4 +25,4 @@ file system
 Please fork this repository and then issue the pull request for review
 
 ###Copyright
-Copyright 2015 Git
+Copyright 2015 Git, All rights reserved
