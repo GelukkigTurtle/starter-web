@@ -2,7 +2,7 @@
 
 This a simple website project for
 showign how to use Git and Github Together
-Adding a line for rebasing
+Update a line for merge stash
 more changes from my feature branch
 ##Introduction
 
